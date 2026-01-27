@@ -180,7 +180,7 @@ To create a hireling, choose an appropriate role from the Hirelings table in the
 
 Alternatively, follow the **Character Creation** process but select the appropriate background, name, and gear for the character.
 
-See **Quick Hirelings** for some example characters that are ready to be dropped into your game.
+See [Quick Hirelings](#quick-hirelings) for some example characters that are ready to be dropped into your game.
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
