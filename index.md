@@ -12,7 +12,7 @@ nav_order: 1
   - Distant Lands is based on [Cairn](https://cairnrpg.com/) by Yochai Gal and [Weird North](https://classless-kobolds.itch.io/weird-north) by Jim Parkin
   - Text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Distant Lands is a table-top roleplaying game for running dark fantasy or sword & sorcery style games. It is meant to be played by one facilitator (the **Warden**) and at least one other player.
+Distant Lands is a table-top roleplaying game for running dark fantasy or sword & sorcery themed games. It is meant to be played by one facilitator (the **Warden**) and at least one other player.
 
 <details close markdown="block">
   <summary id="index">
