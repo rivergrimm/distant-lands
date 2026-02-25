@@ -1,8 +1,8 @@
 :root {
   --background-color: #fff;
-  --heading-color: #000;
+  --heading-color: #003049;
   --text-color: #000;
-  --link-color: #8f1d00;
+  --link-color: #c1121f;
   --visited-color: #8f1d00;
 }
 
@@ -92,10 +92,19 @@ img {
   height: auto;
 }
 
+.side-bar {
+  background-color: var(--background-color);
+}
+
 .side-bar .site-nav, 
 .side-bar .nav-list, 
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
   font-size: 1.25rem; /* 20px */
   font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  background-image: none;
+  color: #780000;
 }
